@@ -15,7 +15,7 @@ contract SushiswapImpl {
     address public LTP_Token = 0x8DF35A8B7be668eAb63158D222eBB308133c81b8; 
     address public LYC_Token = 0x44ad20C2b7752a90F7cBbdeaaacaa5154202069b;
     address public CAPS_Token = 0xb71C37585eef62D0e68AAd9A54A1D5355449A848;
-    address public ROUTER = 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506; 
+    address public ROUTER = 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506;    // on Kovan Testnet
     address public WETH = 0xd0A1E359811322d97991E03f863a0C30C2cF029C;
 
 
